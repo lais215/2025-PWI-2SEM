@@ -1,2 +1,2 @@
-# 2025-PWI-25EM
+# 2025-PWI-2SEM
 Repositório para aula de programação para web.
